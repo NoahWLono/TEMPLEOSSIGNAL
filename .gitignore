@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+runtime/
+*.sock
+*.ISO
+*.iso
+*.img
+*.qcow2
+*.log
+.env
+.env.*
+signal-data/
+
+# Small, reproducible application source disc shipped with this version.
+!releases/v0.1.0/TEMPLEOS_SIGNAL.ISO
